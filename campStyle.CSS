@@ -1,0 +1,206 @@
+/* form decorate */
+
+.frm {
+  border: 4px solid red; /* form border change */
+  height: 105px; /*form length change */
+  width: 750px; /* form width change */
+  background-color: pink;
+
+  margin-top: 8px;
+  border-style: 1px solid red;
+  height: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* last  blood camp  thank part decorate */
+.La {
+  font-size: 20px; /*font size */
+  color: red;
+  text-align: center;
+}
+/*Body decorate*/
+body {
+  background-color: white; /*background color change */
+  background-image: url("background1.jpg");
+  /*background-image:url("../images2/organize.jpg");*/
+}
+/* form input space  decorate */
+.in {
+  margin: 2px;
+}
+
+/*table decorate*/
+/*.tabal1 {
+  padding: 290px;
+}*/
+
+/* Navigation bar  names decorate */
+
+/* when mouse go and names color change and  name background color change */
+
+/* Organize a  blood camp header decorate */
+.div3 h1 {
+  /* organize fil details form decorate*/
+  text-align: center; /*form text center*/
+  color: black; /* form font color change */
+}
+/* how to Organize  blood camp decoration*/
+.HowOrganize li {
+  text-align: left; /*text left*/
+  border-bottom: 1px solid balck;
+  color: black; /*text color*/
+}
+/*How to organize blood camp header decorate*/
+
+.HowOrganize h3 {
+  text-align: left; /*text left side*/
+}
+.HowOrganize h1 {
+  color: red;
+}
+.HowOrganize ol li .set {
+  color: red;
+}
+.btn a {
+  text-decoration: none;
+  color: white;
+}
+/* blood camp details submit button*/
+.btn {
+  background-color: black;
+  color: white;
+  margin-bottom: 340p5x;
+
+  margin-left: 500px; /*btn go right side*/
+}
+/* click review button decorate*/
+.btn2 {
+  background-color: black;
+  color: white;
+  margin-bottom: 340p5x;
+}
+.src1 {
+  margin-left: 50px;
+}
+.src2 {
+  margin-left: 290px;
+  display: inline;
+}
+.src3 {
+  margin-left: 100px;
+  display: inline;
+}
+.table1 {
+  border-color: red;
+}
+.table2 {
+  border-color: red;
+}
+
+/*header decorate*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #6f201c;
+  padding: 20px 0;
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.logo h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.menu li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.menu li:last-child {
+  margin-right: 0;
+}
+
+.menu li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu li a:hover {
+  text-decoration: underline;
+}
+
+/*footer decorte */
+
+footer {
+  background-color: #b5b3b3;
+  padding: 20px 0;
+  text-align: center;
+  bottom: 0;
+  position: relative;
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  margin-bottom: -950px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  height: auto;
+}
+
+.footer-links a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-links a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-links {
+  margin-bottom: -40px;
+}
+
+.footer-info img {
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
+.footer-info p {
+  margin: 0;
+}
+
+.lgo {
+  margin-left: -3070px;
+  margin-top: 20px;
+  margin-bottom: -50px;
+}
+
+.copy {
+  margin-bottom: 60px;
+}
+.imag1 {
+  margin-left: -300px;
+}

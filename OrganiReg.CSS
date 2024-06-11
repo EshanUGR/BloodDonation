@@ -1,0 +1,225 @@
+.reg {
+  padding-top: 18px; /* form up and down padding change */
+  padding-bottom: 35px;
+  width: 700px; /*border width change */
+  height: 150px;
+}
+/* organization registration form decorate */
+.reg1 {
+  padding-top: 18px; /* form up and down padding change */
+  padding-bottom: 35px;
+  height: 350px;
+  width: 700px;
+}
+
+body {
+  background-color: white;
+  background-image: url("background1.jpg");
+}
+/* table detale top padding change */
+td {
+  padding-top: 18px;
+}
+
+.header {
+  text-align: center;
+}
+/* submit button decorate form*/
+.btn1 {
+  background-color: black;
+  color: white;
+  display: list-item;
+  cursor: pointer;
+  display: inline-block;
+  margin-left: 350px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+}
+/* If don't have organizer account create account btn decorate OrganizerLogin.html page decorate */
+
+.btn1 a {
+  text-decoration: none;
+  font: white;
+  background-color: black;
+}
+/*reset button decoration */
+.btn2 {
+  color: white;
+  background-color: black;
+  display: inline;
+  margin-left: 350px;
+  padding-left: 5px;
+  padding-right: 11px;
+  margin-top: 4px;
+}
+
+.div3 h1 {
+  /* organize fil details form decorate*/
+  text-align: center; /*form text center*/
+  color: black; /* form font color change */
+}
+
+/* blood donation header decorate */
+.div2 {
+  background-color: DodgerBlue; /* background color change around header */
+  width: 1248px; /*width chang div tag*/
+  height: 75px;
+  padding-top: 18px;
+  padding-bottom: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+/* Navigation bar  names decorate */
+.na a {
+  float: left;
+  color: white;
+  padding: 16px 55px;
+  text-decoration: none;
+}
+/* when mouse go and names color change and  name background color change */
+.na a:hover {
+  color: black; /* font color change when mouse go */
+  background-color: green; /* background color change name */
+}
+
+.na {
+  overflow: hidden; /* name overflow */
+  background-color: red; /* navigation bar background color change */
+  padding-top: 0px; /* navigation  bar up side  space zero */
+  margin-top: 0px; /* navigation bar  bottom side space zero */
+}
+/* Organizer home page organize blood camp button decorate */
+.btn3 {
+  color: white;
+  background-color: black;
+}
+/* organizer login page subimit and if you have account page decorate*/
+.btn4 {
+  margin-left: 250px;
+  color: white;
+  background-color: black;
+  margin-top: 10px;
+}
+.blood1 {
+  margin-left: 80px;
+  width: 180px;
+  margin-left: 900px;
+  margin-bottom: 380px;
+}
+/*organization login  register button decorate */
+.btn5 {
+  color: white;
+  background-color: black;
+  margin-top: 40px;
+  margin-left: 90px;
+}
+
+/*header decorate*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #6f201c;
+  padding: 20px 0;
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.logo h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.menu li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.menu li:last-child {
+  margin-right: 0;
+}
+
+.menu li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu li a:hover {
+  text-decoration: underline;
+}
+
+/*footer decorte */
+
+footer {
+  background-color: #b5b3b3;
+  padding: 20px 0;
+  text-align: center;
+  bottom: 0;
+  position: relative;
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  margin-bottom: -850px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  height: auto;
+}
+
+.footer-links a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-links a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-links {
+  margin-bottom: -40px;
+}
+
+.footer-info img {
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
+.footer-info p {
+  margin: 0;
+}
+
+.lgo {
+  margin-left: -3070px;
+  margin-top: 20px;
+  margin-bottom: 800px;
+}
+
+.copy {
+  margin-bottom: px;
+}
+.imag1 {
+  margin-left: -300px;
+}

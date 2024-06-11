@@ -1,0 +1,163 @@
+/* blood donation header decorate */
+.div2 {
+  background-color: DodgerBlue; /* background color change around header */
+  width: 1265px; /*width chang div tag*/
+  height: 75px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+/* Organize a  blood camp header decorate */
+.div3 h1 {
+  /* organize fil details form decorate*/
+  text-align: center; /*form text center*/
+  color: black; /* form font color change */
+}
+body {
+  background-color: pink; /*background color change */
+  background-image: url("background1.jpg");
+  /*background-image:url("../images2/organize.jpg");*/
+}
+/* Navigation decorate  using div tag */
+.na {
+  overflow: hidden; /* name overflow */
+  background-color: red; /* navigation bar background color change */
+  padding-top: 0px; /* navigation  bar up side  space zero */
+  margin-top: 0px; /* navigation bar  bottom side space zero */
+}
+/* enter camp review styles */
+.frm {
+  border: 4px solid red;
+  width: 550px;
+  height: 200px;
+}
+/* input set come to the middle */
+.tab {
+  margin-top: 56px;
+}
+/*camp review page button back-color and margin change */
+.btn {
+  background-color: black;
+  margin-left: 190px;
+}
+.review1 {
+  width: 250px;
+  /*
+  margin-top: 20px;*/
+  margin-left: 90px;
+}
+/*
+review2 {
+  margin-left: 0px;
+}
+*/
+
+/*header decorate*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #6f201c;
+  padding: 20px 0;
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.logo h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.menu li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.menu li:last-child {
+  margin-right: 0;
+}
+
+.menu li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu li a:hover {
+  text-decoration: underline;
+}
+
+/*footer decorte */
+
+footer {
+  background-color: #b5b3b3;
+  padding: 20px 0;
+  text-align: center;
+  bottom: 0;
+  position: relative;
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  margin-bottom: -850px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  height: auto;
+}
+
+.footer-links a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-links a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-links {
+  margin-bottom: -40px;
+}
+
+.footer-info img {
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
+.footer-info p {
+  margin: 0;
+}
+
+.lgo {
+  margin-left: -3070px;
+  margin-top: 20px;
+  margin-bottom: -50px;
+}
+
+.copy {
+  margin-bottom: 60px;
+}
+.imag1 {
+  margin-left: -300px;
+}

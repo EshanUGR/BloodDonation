@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Review Page</title>
+
+    <link rel="stylesheet" href="ReviewCamp.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <div class="logo">
+          <h1>Blood Donating System</h1>
+          <img
+            src="logo.jpg"
+            class="img1"
+            alt="Blood Donating System Logo"
+            height="50px"
+            width="50px"
+          />
+        </div>
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Donate</a></li>
+          <li><a href="#">View Center</a></li>
+          <li><a href="#">Contact Us</a></li>
+          <li><a href="#">View Camps</a></li>
+        </ul>
+      </nav>
+        
+    </header>
+
+    <div class="div3">
+      <h1>Enter a camp review</h1>
+    </div>
+    <img src="review1.jpeg" alt="reviw photo" class="review1" />
+
+    <center>
+      <form method="POST" action="SubmitReview.php" class="frm">
+        <table class="tab">
+          <tr>
+            <td>Name :</td>
+            <td><input type="text" name="Name" class="in" /></td>
+          </tr>
+          <tr>
+            <td>Description:</td>
+            <td><input type="text" name="DES" class="in" /></td>
+          </tr>
+
+          <tr>
+            <td>Rate :</td>
+            <td>
+              <select name="Option" class="in">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+              </select>
+            </td>
+          </tr>
+        </table>
+
+        <input type="submit" value="Submit" class="btn" style="color: white" />
+      </form>
+    </center>
+
+    <footer>
+      <div class="container">
+        <div class="footer-links">
+          <a href="">Contact Us |</a>
+          <a href="">Privacy Policy |</a>
+          <a href="">Terms and Conditions |</a>
+          <a href="">Cookies |</a>
+          <a href="">FAQ</a>
+        </div>
+        <div class="footer-info">
+          <p class="copy">&copy; 2023 SBTS. All Rights Reserved.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
